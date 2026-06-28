@@ -1,0 +1,6 @@
+{
+  "name": "StudyVault",
+  "description": "Academic Resource Sharing Platform to centralize, validate, and preserve verified academic content.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
